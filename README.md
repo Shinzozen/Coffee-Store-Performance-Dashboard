@@ -5,3 +5,4 @@ Identify top-selling products and categories to better understand consumer prefe
 Visualize sales trends over time to identify seasonal patterns and potential opportunities for sales growth.
 Provide insights into customer demographics and their purchasing behavior.
 Highlight the impact of promotions or campaigns on sales performance.
+[Download the full Power BI project file] C:/Users/rawat/OneDrive/Documents
